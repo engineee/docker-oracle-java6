@@ -1,2 +1,2 @@
-# docker-oracle-java6
-A Docker Oracle Java 6 Container
+# docker-oracle-java6 and firefox
+A Docker Oracle Java 6 Container with firefox
